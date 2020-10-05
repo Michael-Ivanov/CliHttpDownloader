@@ -1,0 +1,4 @@
+http://speedtest.ftp.otenet.gr/files/test10Mb.db
+http://speedtest.ftp.otenet.gr/files/test100Mb.db
+https://speed.hetzner.de/100MB.bin
+https://speedtest.selectel.ru/100MB
